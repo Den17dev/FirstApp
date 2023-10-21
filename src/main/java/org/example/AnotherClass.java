@@ -1,0 +1,37 @@
+package org.example;
+
+import jdk.incubator.vector.VectorOperators;
+
+public class AnotherClass {
+
+    private String text;
+
+    private TestClass testClass;
+
+    public AnotherClass(TestClass testClass) {
+        this.testClass = testClass;
+    }
+
+    public TestClass getTestClass() {
+        return testClass;
+    }
+
+    public void setTestClass(TestClass testClass) {
+        this.testClass = testClass;
+    }
+
+    AnotherClass(){
+
+    }
+    AnotherClass(String text){
+        this.text = text;
+    }
+
+    public String getText() {
+        return text;
+    }
+
+    public void setText(String text) {
+        this.text = text;
+    }
+}
