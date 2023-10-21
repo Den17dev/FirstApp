@@ -5,6 +5,8 @@ import jdk.incubator.vector.VectorOperators;
 public class AnotherClass {
 
     private String text;
+    
+   private String text2;	
 
     private TestClass testClass;
 
