@@ -1,7 +1,5 @@
 package org.example;
 
-import jdk.incubator.vector.VectorOperators;
-
 public class AnotherClass {
 
     private String text;
