@@ -3,8 +3,6 @@ package org.example;
 public class AnotherClass {
 
     private String text;
-    
-   private String text4;
 
     private TestClass testClass;
 
