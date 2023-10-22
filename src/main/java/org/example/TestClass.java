@@ -34,4 +34,8 @@ public class TestClass {
     private String someMethod(){
         return String.valueOf(getValue(value));
     }
+
+   private void voidMethod(){
+   	System.out.println("Hello, Universe!!!");
+   }
 }
