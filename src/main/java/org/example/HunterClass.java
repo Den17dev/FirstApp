@@ -41,4 +41,8 @@ public class HunterClass {
     public void setHunter(boolean hunter) {
         isHunter = hunter;
     }
+
+    public void voidMethod(){
+        System.out.println("Hunter Class");
+    }
 }
