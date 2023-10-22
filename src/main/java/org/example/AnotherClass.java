@@ -6,7 +6,7 @@ public class AnotherClass {
 
     private String text;
     
-   private String text3;
+   private String text4;
 
     private TestClass testClass;
 
